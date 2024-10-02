@@ -1,0 +1,359 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.spreadshirtmedia.net/image-server/v1/products/T1459A842PA4459PT28D196409171W9361H10000/views/1,width=550,height=550,appearanceId=842,backgroundColor=F2F2F2/albanian-flag-shqip-shqiponja-eagle-albania-sticker.jpg" group-title="Live: Albania",Rtv Konaku HD
+https://glb.bozztv.com/glb/ssh101/rtvkonaku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUxJMQurMv3ITmnPok9XarSbw4EBH-3JX3A&s.jpg" group-title="Live: Albania",Rtv Rinia HD
+https://glb.bozztv.com/glb/ssh101/rtvrinia/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://actvmichigan.com/wp-content/uploads/2018/11/cropped-ACTVLogo-e1542491144956-1.png" group-title="Live: USA",ACTV USA (MICHIGAN)
+http://live.albavision.net:1123/live/actv.m3u8
+
+#EXTINF:-1 Spin TV
+http://87.238.210.123:8182
+
+#EXTINF:-1 Ziko Tv
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/tracks-v4a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/766142095673393152/BDuMTC3Q_400x400.jpg" group-title="Live: Albania",Arti TV
+http://stream.logic-ks.net:6969/live/artitv/hd/24.ts
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Leart Sport 1
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30491
+
+#EXTINF:-1 tvg-logo="https://image.spreadshirtmedia.net/image-server/v1/products/T1459A842PA4459PT28D196409171W9361H10000/views/1,width=550,height=550,appearanceId=842,backgroundColor=F2F2F2/albanian-flag-shqip-shqiponja-eagle-albania-sticker.jpg" group-title="Live: Albania",Rtv Konaku HD
+https://glb.bozztv.com/glb/ssh101/rtvkonaku/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2021/05/arberiatv-1.png" group-title="Live: Albania",Rtv Arberia 1
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2021/05/arberiatv-1.png" group-title="Live: USA",Rtv Arberia USA
+https://fl1002.bozztv.com/ssh101/rtvarberiausa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia 2 Mix
+https://fl1002.bozztv.com/ssh101/rtvarberia2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia 3 Femij
+https://fl1002.bozztv.com/ssh101/rtvarberia3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia 4 muzik
+https://fl1002.bozztv.com/ssh101/rtvarberia4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia 5 film
+https://fl1002.bozztv.com/ssh101/rtvarberia5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia 6 Retro hits
+https://fl1002.bozztv.com/ssh101/rtvarberiaretro/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia 7 Arshi i allahut
+https://fl1002.bozztv.com/ssh101/rtvarberiaislam/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia 8 Shprese e perendise
+https://fl1002.bozztv.com/ssh101/rtvarberiajesus/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1" group-title="Live: Albania",Rv Fontana
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/hKKaVt_C11VBrVITZz3RmKDwbIUya3pe7Yik9aV75PIBXxLweyxn0pEHWEPHRDl55GyozpCpmkaZOlrx_nqqrm2zKI_lh1Q1xzmZlL3pJFGrVId0ipn0acxixqpjLu7oAHW1j4KR3Ryrow_MG7bdy8VnGQ9PCX2vH1zUuJ2gusQlsuQCzsPZ8By9sC-_DzCL/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/640px-Top_Channel.svg.png" group-title="Live: Albania",Top Channel 
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/oaWfltl3jOxtJ6SEPWFXwbX1x1TVjUrYZli6u5-bgZgQLyPv1ybtrYXNA8qqmkaLMezYTLM28v-KDBrIshqax4zllxrO9aNR6CgXBrZbManahX79Ps-fw_uHCS4UR-x3oLYbIDgjkFX3183zyi1Xwu_BwWuoeHINYDzHYGsWU2qyIbwUnFCHwKHfyzoP_ym6/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvmak.com/img/tv/ulqinitv.png" group-title="Live: Albania",Tv Ulqini
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/UZMyIndRBAppzgF8rELT-SqgSWavUgknO3CKitg1BSyl8b_geTqhtHjpcsdt-6z9bhOkgiXqjwI8wOrfn69CUyyBdbAZ_KwVBjDTeiZYn7cZbg_fC5QzxOfFa41BMKW-PbT5EziqmJUAbvSK-2LeJlgLtSePcFXxxKKcWFd9mr-adU0Gc_P5UKtnduEAfuN4/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_308,h_140/https://www.first-channel.tv/wp-content/uploads/2016/04/cropped-logo.png" group-title="Live: Albania",First Channel
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ky-WM1mEZz2DvAZ6Q1yaiBWlvOFUqqRW-Vh3BiE4F7xVYuFaCh4SHpSQ-iOCI3w7YEfKnQO4gHccxxug3kXWtcsIVAQXq68B6tSehBKpekZ3CdRL1TE1oMCM7nebRwzTVl1zfkSYCEDyvjmhLF03BgzhC5SYUFVGPZIHW8zbvHRMVlkwn5zYhRq_UiM_NBWk/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitalfernsehen.de/wp-content/uploads/2020/03/diasporatv.jpg" group-title="Live: Albania",Diaspora TV
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/mppBWn21xQFID5HN1wayRs1TOjDm0JHAXgoYOl9C7p8Nt99EbEIim06f9plPqPTmQlaJPOkAHrX3RUOykGZ3s28sm6Zc1ifJemIx30jpwwHzs3v4fvtCPAyIl_kFaRzcp6CyHhbun80Hoa7N7KunkCfWZep5HTEtldpJ_8t76o-peYZhCA9vLv1yO3huVFm2/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://oklivetv.com/wp-content/uploads/media/59c3b00e6026609a7d9bb8402f0e8adb.jpeg" group-title="Live: Albania",Tv Era
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/TRLna3Lty731HOctmf5mi-tLbbgh8iW1-5KhQuMp8vywhePF47MEWP8NQoASzhLNrQEnvTkg3rYgmUbP0My0YOFY7_PY3ZmrvgX36KfUqDouya21rm5QNT9dUGgJlmCUP9dRlgMnI7dITWd1ZaxFP90tNUerIle-8O2u0s73ZJj4jcORAqeCjZ2ZMPvgtJmT/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shenja.tv/wp-content/uploads/2023/02/logos.png" group-title="Live: Albania",Tv Shenja
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/xGBjOdw7ejbZ2HB65wZO43qLiRgjXKS25uuNOd-hTjAWy63zPNyjHk7V8-OJRImmEx2d7sHZ9SIymUyGeqrDQbVIuE3GSVE9WCPUVUghKMJr7rvujmTuhtxuEUsVQxmoNOYew0vzRvgEXceC7JqoGY-3h0nfEfkBuFqe48iQqJrjd8aHi3cAx6OVd2H8G2gM/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.3870808304.2674/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="Live: Albania",ScanderBeg TV
+https://glb.bozztv.com/glb/ssh101/scanderbegtv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.rtvarberia.com/wp-content/uploads/2020/06/cropped-radio-arberia-logo1-5.png" group-title="Live: Albania",Rtv Arberia PRIME ( AUDIO )
+https://glb.bozztv.com/glb/ssh101/arberiaprime/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bashk.tv/storage/uploads/images/channel_logos/RtvUlpiana_logo_65bc04141081c.png" group-title="Live: Albania",Rtv Ulpiana
+https://glb.bozztv.com/glb/ssh101/rtvulpiana/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.zeno.fm/NyMjm9i2xF88VLKxaMsKlrADabSPiQm01CGPdSpQvTQ/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRX2FtSXJBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUN3OU8tWXlRa01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NDQweDQ0MCZ1cGRhdGVkPTE2MTg3MDQzMjgwMDA.webp" group-title="Live: Albania",Hi Music TV
+https://glb.bozztv.com/glb/ssh101/HiMusicTv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.spreadshirtmedia.net/image-server/v1/products/T1459A842PA4459PT28D196409171W9361H10000/views/1,width=550,height=550,appearanceId=842,backgroundColor=F2F2F2/albanian-flag-shqip-shqiponja-eagle-albania-sticker.jpg" group-title="Live: USA",Atv Chicago
+https://glb.bozztv.com/glb/ssh101/atvchicago/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30522
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtsh1.jpg" group-title="Live: Albania",RTSH 
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30518
+
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="Live: Albania",RTV 21
+http://84.22.44.194:3337/21artkryesor
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="Live: Albania",KTV
+http://136.243.32.241:8081/yWbXvr1S/ktv119new_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="Live: Albania",KLAN KOSOVA FHD
+http://493892969645726622.ofd0208.xyz/play/J6U8FWHPPT/UMFRpbfBHUg/726622.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dukagini.jpg" group-title="Live: Albania",TV DUKAGJINI
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30601
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/fc491afbd5e05e744fa0d4d257780b36.png" group-title="Live: Albania",A TV
+http://82.114.68.162:1000/ATV-HD
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/t7al.jpg" group-title="Live: Albania",T 7
+http://493892969645764593.ofd0208.xyz/play/J6U8FWHPPT/UMFRpbfBHUg/764593.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c655613efc4c5e1acbb02c59c874c2fb.png" group-title="Live: Albania",KANAL 10
+http://184585.ipturk.eu/veliyildirim/nRGD6XqxyO/241396
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/teve1al.jpg" group-title="Live: Albania",TËVË1
+http://493892969645733445.ofd0208.xyz/play/J6U8FWHPPT/UMFRpbfBHUg/733445.ts
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="Live: Albania",DTV Media
+http://62.210.123.134:98/live/an75d/75d/4.ts
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",TOP CHANNEL
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30477
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="Live: Albania",KLAN
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30560
+
+
+#EXTINF:-1 tvg-logo="http://iptv-tn.com:8080/images/2c93a71a0321b0fa4b434460e297b96a.png" group-title="Live: Albania",RTI Islam
+http://87.238.211.165:9091/RTIHD
+
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",ALSAT M HD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30627
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/alsatm.jpg" group-title="Live: Albania",ALSAT M HD
+http://62.210.123.134:98/live/an75d/75d/36.ts
+
+
+#EXTINF:-1,TV Dielli
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+
+
+#EXTINF:-1,Popullore
+http://dirliv.sytes.net:23000/RfLBIbbZRg/mQArETYnrG/49563
+#EXTINF:-1,ATD
+http://xtream.cableguy.pro:8080/jasminax/bJKywA6wec/13480
+
+#EXTINF:-1,Syri TV
+http://syritv.advantech.al:33538/SyriTV
+
+#EXTINF:-1,Klan Plus 
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30556
+#EXTINF:-1,Vizion Plus
+http://95.107.132.40:85/m3u8/vizion.m3u8
+
+
+
+#EXTINF:-1,Arta News
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30619
+
+#EXTINF:-1,Klan News
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30557
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="Live: Albania",TOP NEWS
+http://dirliv.sytes.net:23000/RfLBIbbZRg/mQArETYnrG/49384
+#EXTINF:-1,Report Tv
+http://yesimes.oknirvana.club:8880/movie/DAALM2523/ZASc5gv9pd/61988.mp4
+
+
+
+#EXTINF:-1,NTV
+http://protokolldns.xyz/alb.uk.tv/index.m3u8
+
+
+
+#EXTINF:-1,TVA News
+https://live.tvanews.com/live/tvanews/play.m3u8
+
+
+#EXTINF:-1,Korca TV
+http://32.shqiptv.org/korca/albplus/index.m3u8
+#EXTINF:-1,Tv Kopliku
+http://157.90.135.165:8081/yWbXvr1S/kopliku/playlist.m3u8
+#EXTINF:-1,Panorama TV
+http://109.236.44.157:2121/panorama
+#EXTINF:-1,Sky Galaxy
+http://5.206.237.251:1288/GalaxyHD
+#EXTINF:-1,Humor 
+http://144.76.100.109/humorshqip/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Globe Tv
+http://italbania.live/globetv/tibo/index.m3u8
+
+
+
+#EXTINF:-1,TV Festina
+http://213.163.114.23:25461/ipko/M8TATzJPXe/1
+
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg" group-title="Live: Albania",Top Estrada AL
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+
+#EXTINF:-1,Music Shqip
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w707164133.m3u8
+#EXTINF:-1,RTV Muzik
+http://144.76.100.109/tvmendi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Tv Johani
+http://protokolldns.xyz/tvjohaniterlivetsss/index.m3u8
+#EXTINF:-1,TV Bulevardi
+http://bulevardtv.online/bulevardtv/index.m3u8
+#EXTINF:-1,Shqiponja Tv
+https://shiko.shqiponja-tv.com:3941/hybrid/play.m3u8
+
+#EXTINF:-1,POLLOGU TV
+http://rtmp.tvmak.com:81/tv/uskanatetove.m3u8
+
+#EXTINF:-1,USKANA TV
+http://188.44.8.20:60000/TvUskana
+http://188.44.8.20:60000/TvUskana
+#EXTINF:-1,Tropoja Tv
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/127fed99e14527d5771aee47da055db8.jpeg" group-title="Live: Albania",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg" group-title="Live: Albania",Opoja TV
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1,AlB UK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+
+#EXTINF:-1,RTV Ilirida
+http://144.76.100.109/tvilirida/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL011XShkencaHD.png" group-title="Albania",AL011:ART SPORT 1 FHD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30623
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL012TringSport2HD.png" group-title="Albania",AL012:ART SPORT 2 FHD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30622
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL013RTK1HDAL.png" group-title="Albania",AL013:ART SPORT 3 FHD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30621
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL065TRINGSPORT4HD.png" group-title="Albania",AL065:K SPORT 1 HD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30569
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL068TringPlanet.png" group-title="Albania",AL068:K SPORT 2 FHD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30566
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL069TringMax.png" group-title="Albania",AL069:K SPORT 3 HD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30565
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL184FOLKHD.png" group-title="Albania",AL184:K SPORT 4 FHD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30450
+
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL142FilmHitsHD.png" group-title="Albania",AL142:SUPER SPORTS 1 FHD
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30492
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL143FilmAutorHD.png" group-title="Albania",AL143:SUPER SPORTS 2
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30491
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL144FilmDrameHD.png" group-title="Albania",AL144:SUPER SPORTS 3
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30490
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL145FilmThrillerHD.png" group-title="Albania",AL145:SUPER SPORTS 4
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30489
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL146FilmComediHD.png" group-title="Albania",AL146:SUPER SPORTS 5
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30488
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL147ChannelOneFHD.png" group-title="Albania",AL147:SUPER SPORTS 6
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30487
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL148FilmAksionHD.png" group-title="Albania",AL148:SUPER SPORTS 7
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30486
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL149XWesternHD.png" group-title="Albania",AL149:SUPER SPORTS NEWS
+http://yesimes.oknirvana.club:8880/DAALM2523/ZASc5gv9pd/30485
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,Film Gold AL
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30582
+
+
+#EXTINF:-1,Film Aksion
+http://95.214.235.96:8880/29ca10183n04/asdfe332/30590
+
+#EXTINF:-1,Film Max
+http://5.206.237.251:1288/StarHD
+#EXTINF:-1,Sky Aksion
+http://5.206.237.251:1288/AksionHD
+#EXTINF:-1,Tring Fantasy
+http://abcnew.site:8880/3ca06273n01/asdf23e23/30470
+#EXTINF:-1,Tring Aksion
+http://62.210.123.134:98/live/an75d/75d/17.ts
+
+#EXTINF:-1,Film Fantasy
+http://84.22.33.254/unicast.scifi/video.m3u8?token=test
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/859dbe5fab02fcb6e0b2015c2b275b25.png" group-title="ALB | ART Kino 1ⓧ FHD",ALB | ART Kino 1ⓧ FHD
+http://62.162.115.38:22229/play/a006
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4ef5de6d26d1e4ef123255d094ebd206.png" group-title="ALB | ART Kino 2ⓧ HD",ALB | ART Kino 2ⓧ HD
+http://62.162.115.38:22229/play/a007
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/0b0ac717b3c3f037d2ec81acdd6477a2.png" group-title="ALB | ART Kino 3ⓧ HD",ALB | ART Kino 3ⓧ HD
+http://62.162.115.38:22229/play/a008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
